@@ -1,0 +1,1 @@
+get the data from kaggle source search for satellite image classification run the code with proper directory path you will get mode and flass application as python file with name app.py python app.py run model.ipynb you will get model with data set good luck
